@@ -4,7 +4,7 @@
 
 Welcome to the [Qiskit](https://www.qiskit.org/) community tutorials!
 
-In this repository, we've put together a collection of awesome community-contributed Jupyter notebooks that leverage the features of Qiskit in education and applications.
+In this repository, we've put together a collection of awesome community-contributed Jupyter notebooks that leverage the features of Qiskit in education and applications. Feel free to navigate this repository, to [Fork this repo](https://github.com/qiskit/qiskit-community-tutorials/fork), or to open the [Binder image](https://mybinder.org/v2/gh/qiskit/qiskit-community-tutorials/master?filepath=./index.ipynb).
 
 ## Contents
 
@@ -21,7 +21,7 @@ Learn about and how to program quantum circuits using Qiskit Terra.
 Learn about textbook quantum algorithms, like Deutsch-Jozsa, Grover, and Shor using Qiskit Terra. 
 
 ### 5 [Developing Quantum Applications with Qiskit Aqua](aqua/index.ipynb)
-Learn how to develop and the fundamentals of quantum applications using Qiskit Aqua
+Learn how to develop the fundamentals of quantum applications using Qiskit Aqua
 
 ### 6 Awards
 Learn from the great contributions to the [IBM Q Awards](https://qe-awards.mybluemix.net/)
